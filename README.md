@@ -1,13 +1,11 @@
-# Mamedov-Java-QA-Traineeship-Task
+# Mammadova-Java-QA-Traineeship-Task
 
 ## Overview
 
-This project is a solution to the QA Automation traineeship technical task.
+This project is a solution to the technical task for QA Automation traineeship.
 
 - **Language:** Java 11  
 - **IDE:** IntelliJ IDEA  
-- **Run type:** Console application  
-- **Input:** Interactive via console
 
 ## Task Summary
 
@@ -20,8 +18,7 @@ This project is a solution to the QA Automation traineeship technical task.
 
 1. Clone the repository  
 2. Open in IntelliJ IDEA  
-3. Run `Main.java`  
-4. Follow the prompts in the console  
-
-## Example Input
+3. Run `Task1_Algorithm`
+4. Run `Task2`  
+5. Follow the prompts in the console  
 
